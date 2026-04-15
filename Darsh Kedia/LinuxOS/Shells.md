@@ -127,5 +127,3 @@ Different shells exist because they are designed for different operating systems
 
 ## Conclusion  
 Different shells are designed for different needs. If someone just wants to do simple tasks, cmd is enough. For development and automation, bash or zsh is better. For deep control over Windows systems, PowerShell is the best choice. Anaconda Prompt is more specialized and useful mainly for Python-related work.
-
-Overall, the choice of shell depends on what kind of work you are doing and how much control you need over the system.
